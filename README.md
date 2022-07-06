@@ -1,18 +1,10 @@
 # Covid_19_Statistics
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
 ## Desktop
 ![DESKc]((https://user-images.githubusercontent.com/90258833/177327462-bd9c7969-5b79-41ac-8f1f-e0bcfa90579b.png))
-
 ## Mobile
-![MOBc](https://user-images.githubusercontent.com/90258833/177327661-9647d98a-7a70-49d5-9297-2978064a6ef8.png)
-
-
-
-> Project Description.
+![MOBc](https://user-images.githubusercontent.com/90258833/177327661-9647d98a-7a70-49d5-9297-2978064a6ef8.png)> Project Description.
 > A responsive web app that displays COVID-19 statistics from different countries by fetching data from Covid-19 API.
-
-
 
 ## Built With
 
@@ -23,20 +15,13 @@
 - React
 - Redux
 - Covid-19 API
-
 ## Live Demo 
 [Live Demo Link](https://62c5632ff95425005628e693--singular-narwhal-45fe91.netlify.app/)
-
 ## Live video 
 [Live video](https://www.loom.com/share/f70309803f2d4645b21004b3897021e2)
 
-
-
 ## Getting Started
-
-
 To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 - Web browser
@@ -67,13 +52,7 @@ npx stylelint "**/*.{css,scss}"
 
 ESLint
 ```bash
-npx eslint .
-```
-
-
-
-
-## Authors
+npx eslin## Authors
 
 👤 **Author1**
 
