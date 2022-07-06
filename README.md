@@ -25,7 +25,7 @@
 - Covid-19 API
 
 ## Live Demo 
-[Live Demo Link](https://62bb0e3e5ee5341abc51b517--jolly-douhua-57a5de.netlify.app/)
+[Live Demo Link](https://62c5632ff95425005628e693--singular-narwhal-45fe91.netlify.app/)
 
 ## Live video 
 [Live video](https://www.loom.com/share/f70309803f2d4645b21004b3897021e2)
