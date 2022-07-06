@@ -1,9 +1,10 @@
 # Covid_19_Statistics
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 ## Desktop
-![DESKc]((https://user-images.githubusercontent.com/90258833/177327462-bd9c7969-5b79-41ac-8f1f-e0bcfa90579b.png))
+![DESKc]((https://user-images.githubusercontent.com/90258833/177327462-bd9c7969-5b79-41ac-8f1f-e0bcfa90579b.png)
 ## Mobile
-![MOBc](https://user-images.githubusercontent.com/90258833/177327661-9647d98a-7a70-49d5-9297-2978064a6ef8.png)> Project Description.
+![MOBc](https://user-images.githubusercontent.com/90258833/177327661-9647d98a-7a70-49d5-9297-2978064a6ef8.png)
+> Project Description.
 > A responsive web app that displays COVID-19 statistics from different countries by fetching data from Covid-19 API.
 
 ## Built With
